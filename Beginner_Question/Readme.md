@@ -5,8 +5,14 @@ Each file in this folder📂 contains a different beginner-level problem along w
 🔥 Topics Covered
 
 ➡️Arrays
+
 ➡️Strings
+
 ➡️Sorting
+
 ➡️Searching
 
+
 This four concept🔔 are building block of any data structure and algorithm. So, it's very important to understand these concepts before moving to further topics.🪄
+
+📌 More topics being added regularly! Stay tuned!
