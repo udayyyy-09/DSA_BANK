@@ -77,6 +77,9 @@ Basic Operations in C++
 🚨Note:       Uordered_map is goona use a lot because it is faster than map and have O(1) time complexity.
 
 
-Study in Detials: https://www.geeksforgeeks.org/map-in-cpp/ and https://www.geeksforg
+Study in Detials:
+https://www.geeksforgeeks.org/map-in-cpp/
+
+https://www.geeksforg
 
 Thankyou🎖️
