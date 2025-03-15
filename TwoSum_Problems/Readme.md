@@ -1,4 +1,4 @@
-📌 Two Sum - README
+📌 Two Sum 
 
 Problem Statement
 
@@ -47,18 +47,22 @@ Space Complexity: O(N)
 
 This problem follows a common pattern used in many other problems:
 
-1. Two Sum II (Sorted Array, Two Pointers) - LeetCode 167
+1. Two Sum II (Sorted Array, Two Pointers) - [LeetCode 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted?envType=study-plan-v2&envId=top-interview-150)
 
-2. 3Sum (Three Numbers Sum to Target) - LeetCode 15
+2. 3Sum (Three Numbers Sum to Target) - [LeetCode 15](https://leetcode.com/problems/3sum)
 
-3. 4Sum (Four Numbers Sum to Target) - LeetCode 18
+3. 4Sum (Four Numbers Sum to Target) - [LeetCode 18](https://leetcode.com/problems/4sum)
 
-4. Subarray Sum Equals K (Using Prefix Sum & Hash Map) - LeetCode 560
-
-We are going to cover up all this question in this problem 📂folder. So, Stay tune !
+4. Subarray Sum Equals K (Using Prefix Sum & Hash Map) - [LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k)
 
 --------------------------------------------------------------------------------------------------------------------
 
-Contact 🔔
+🔔 We are going to cover up all this question in this problem folder📂. So, Stay tune !
+
+--------------------------------------------------------------------------------------------------------------------
+
+✨Contact: 
+
 Email: udaychaudhary419@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/uday-chaudhary-b24b08290/
