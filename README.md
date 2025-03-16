@@ -43,6 +43,14 @@ Welcome to DSA_BANK, a well-structured collection of Data Structures and Algorit
 
 ▫️ Competitive programmers looking for efficient implementations
 
+--------------------------------------------------------------------------------------------------------------
+
+📣If you face any difficult during questions or feeling low you can direct contact me anytime you want🥰
+
+Email: udaychaudhary419@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/uday-chaudhary-b24b08290/
+
 ---------------------------------------------------------------------------------------------------------------
 📌 More topics being added regularly! Stay tuned!
 
