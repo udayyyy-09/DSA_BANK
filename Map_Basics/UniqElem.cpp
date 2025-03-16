@@ -6,7 +6,8 @@
 To solve this problem you can use a map by storing a frequency of element after that iterate through map and check 
 if(mp[nums[i]] == 1) this is the condition to add the element in the result array.
 don't worry you will get the appproach immediately if you don't get the answer or approach correctly.
-*/                                   
+*/   
+                                
 #include<iostream>
 #include<vector>
 #include<unordered_map>
