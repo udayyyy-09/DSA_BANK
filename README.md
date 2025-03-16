@@ -4,11 +4,13 @@ Welcome to DSA_BANK, a well-structured collection of Data Structures and Algorit
 
 🔹 Structured Solutions to common DSA problems
 
-🔹 Beginner to Advanced level questions
+🔹 Questions from Interviews
 
 🔹 Optimized Code for better understanding
 
 🔹 Handpicked Problems from platforms like LeetCode, Codeforces, GFG, and more
+
+--------------------------------------------------------------------------------------------------------------
 
 📂 What's Inside?
 
@@ -32,6 +34,8 @@ Welcome to DSA_BANK, a well-structured collection of Data Structures and Algorit
 ✅ Heap & Priority Queue – Min-Heap, Max-Heap implementations
 
 ✅ Trie & Hashing – Efficient searching and storage techniques
+
+----------------------------------------------------------------------------------------------------------------
 
   🎯 Who is this for?
 
