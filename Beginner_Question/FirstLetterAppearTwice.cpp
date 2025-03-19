@@ -1,4 +1,4 @@
-/* LEETCODE -->  2351(Prblm No.)
+/* LEETCODE -->  2351           ( https://leetcode.com/problems/first-letter-to-appear-twice )
 Given a string s consisting of lowercase English letters, return the first letter to appear twice.
 Note:
 A letter a appears twice before another letter b if the second occurrence of a is before the second occurrence of b.

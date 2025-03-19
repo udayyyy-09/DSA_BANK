@@ -1,5 +1,8 @@
-//                           FIND COMMON ELEMENT FROM TWO ARRAYS
-//IN THIS QUESTION WE HAVE TO FIND COMMON ELEMENT FROM TWO ARRAYS AND AFTER FINDING YOU HAVE TO RETURN THAT ELEMENT
+/*     Leetcode -> 349  (https://leetcode.com/problems/intersection-of-two-arrays)
+       COMMON ELEMENT FROM TWO ARRAYS
+       IN THIS QUESTION WE HAVE TO FIND COMMON ELEMENT FROM TWO ARRAYS AND AFTER FINDING YOU HAVE TO RETURN THAT ELEMENT
+
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
