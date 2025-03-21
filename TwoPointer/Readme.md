@@ -28,7 +28,7 @@ The Two-Pointer Technique is an optimized algorithmic approach that uses two poi
 
 2. Is Subsequence : https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150
 
-3. https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150
+3. Container With More Water : https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150
 
 4. Two Sum II - Input array is sorted : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150
 
