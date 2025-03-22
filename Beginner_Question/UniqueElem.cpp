@@ -1,6 +1,6 @@
 /*   RETURN A ARRAY IN WHICH IT CONTAINS ONLY UNIQUE ELEMENTS
     Ex:
-    input: [1, 2, 2, 3, 4, 4,5]
+    input: [1, 2, 2, 3, 4, 4, 5]
     output: [1, 3, 5]
 
 To solve this problem you can use a map by storing a frequency of element after that iterate through map and check 
