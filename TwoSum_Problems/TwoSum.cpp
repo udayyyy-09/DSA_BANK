@@ -4,6 +4,7 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order. 
 
 we are going to See two approach of this problem one is using HashMap(Optimal Approach) and other is using Two Nested Loop(Brute).
+
 Brute Force Approach🔥
 Use two nested loops:
 The outer loop selects one element (nums[i]).
@@ -14,6 +15,7 @@ Optimal Approach🔥
 Use a hash map (unordered_map) to store each number's index as we iterate through the array.
 For each number nums[i], check if target - nums[i] exists in the map.
 If it exists, return the stored index and the current index.
+
 */
 #include<iostream>
 #include<vector>
