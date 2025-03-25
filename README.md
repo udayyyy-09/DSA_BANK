@@ -55,7 +55,7 @@ Email: udaychaudhary419@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/uday-chaudhary-b24b08290/
 
----------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 📌 More topics being added regularly! Stay tuned!
 
 ⭐ Star the Repository
@@ -63,3 +63,12 @@ If this repository helps you, give it a star ⭐ and help others discover it!
 
 
 📌 Follow for more updates: https://github.com/udayyyy-09
+
+-----------------------------------------------------------------------------------------------------------
+
+Feel free to ask anything or share your thoughts! 😊
+
+Email: udaychaudhary419@gamil.com
+
+linkedin: https://www.linkedin.com/in/uday-chaudhary-b24b08290/
+
