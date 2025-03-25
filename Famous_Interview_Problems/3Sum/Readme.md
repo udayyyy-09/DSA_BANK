@@ -2,6 +2,8 @@
 
 ![alt text](<Screenshot 2025-03-25 121113.png>)
 
+------------------------------------------------------------------------------------------------------------
+
 ✅Frequently asked in technical interviews.
 
 🔧 Approach
@@ -16,25 +18,21 @@
 
     ◽For each nums[i], use two pointers:
 
-        ◽st (start) → i + 1
+      ◽st (start) → i + 1
 
-        ◽end → nums.size() - 1
+      ◽end → nums.size() - 1
 
     ◽Skip duplicates:
 
-        ◽After finding a valid triplet, move the pointers and skip any duplicate values.
+      ◽After finding a valid triplet, move the pointers and skip any duplicate values.
 
 ------------------------------------------------------------------------------------------------------------
 
 🔥 Complexity Analysis
 
-Time Complexity: 
+Time Complexity: O(n^2)
 
-O(n^2)
-
-Space Complexity:
-
-O(ans) 
+Space Complexity:O(ans) 
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -42,8 +40,8 @@ O(ans)
                 Output: [[-1, -1, 2], [-1, 0, 1]]
                 Explanation:
 
-The valid triplets with a sum of 0 are: −1+0+1=0
-−1+−1+2=0
+                    The valid triplets with a sum of 0 are: −1+0+1=0
+                    −1+−1+2=0
 
 ------------------------------------------------------------------------------------------------------------
 
