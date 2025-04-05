@@ -3,11 +3,15 @@
 
 Given an array of positive integers nums and a positive integer target, return the minimal length of a contiguous subarray of which the sum is greater than or equal to target. If there is no such subarray, return 0.
 
+--------------------------------------------------------------------------------------------------------------
+
 🧠 Problem Type
 
 Sliding Window (Variable Size)
 
 Two Pointer Technique
+
+--------------------------------------------------------------------------------------------------------------
 
 🧩 Constraints
 
@@ -44,3 +48,11 @@ Two Pointer Technique
 
     🔘0 if minLen was never updated (no valid subarray found).
     🔘 Otherwise, return minLen.
+
+-----------------------------------------------------------------------------------------------------------------
+
+Feel free to ask anything or share your thoughts! 😊
+
+Email: udaychaudhary419@gamil.com
+
+linkedin: https://www.linkedin.com/in/uday-chaudhary-b24b08290/
