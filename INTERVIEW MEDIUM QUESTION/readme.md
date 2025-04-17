@@ -1,9 +1,7 @@
 🧠 Medium-Level DSA Questions for Interview Prep
 
 This folder contains solutions to medium-level coding interview questions commonly asked in technical interviews. 
-
 The focus is on improving problem-solving skills, understanding optimized approaches, and learning core data
-
 structures and algorithms.
 
 ---------------------------------------------------------------------------------------
@@ -13,33 +11,36 @@ structures and algorithms.
 Each problem includes:
 
 ✅ Problem statement
+
 🧩 Approach / Intuition
+
 🧠 Time and Space Complexity
+
 💻 Code (C++/Python/Java – depending on preference)
 
 ---------------------------------------------------------------------------------------
 
 📌 Topics Covered:
 
-Arrays & Strings
+🔘Arrays & Strings
 
-Binary Search
+🔘 Binary Search
 
-Dynamic Programming
+🔘Dynamic Programming
 
-Two Pointers
+🔘Two Pointers
 
-HashMaps / Sets
+🔘HashMaps / Sets
 
-Stacks & Queues
+🔘Stacks & Queues
 
-Trees / Graphs
+🔘Trees / Graphs
 
-Greedy Algorithms
+🔘Greedy Algorithms
 
-Bit Manipulation
+🔘Bit Manipulation
 
-Sliding Window
+🔘Sliding Window
 
 ---------------------------------------------------------------------------------------
 
