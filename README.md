@@ -51,8 +51,9 @@ Welcome to DSA_BANK, a well-structured collection of Data Structures and Algorit
 📌 More topics being added regularly! Stay tuned!
 
 ⭐ Star the Repository
-If this repository helps you, give it a star ⭐ and help others discover it!
+If this repository helps you, give it a star and help others discover it!
 
+⭐Leetcode Profile: https://leetcode.com/u/udayyyy09/
 
 📌 Follow for more updates: https://github.com/udayyyy-09
 
