@@ -1,4 +1,5 @@
-1004. Max Consecutive Ones III                                  {question link provided at end}
+# 1004. Max Consecutive Ones III                                 
+{ question link provided at end }
 
 ![alt text](image.png)
 
@@ -37,6 +38,8 @@ Average Case (Balanced BST): O(log n)
 Worst Case (Unbalanced BST): O(n)
 
 If the tree is a straight line (completely unbalanced), the recursion stack can grow up to n levels deep.
+
+-------------------------------------------------------------------------------------------------
 
 Question Link: https://leetcode.com/problems/max-consecutive-ones-iii/
 
