@@ -21,23 +21,24 @@ Recursive Approach (Useful for understanding recursion)
 
 Algorithm Steps
 
-1. Initialize three pointers:
+- Initialize three pointers:
+  
+   - prev = nullptr
+  (Previous node)
+     
+   - curr = head (Current node)
 
-prev = nullptr (Previous node)
+   - next = nullptr (Next node)
 
-curr = head (Current node)
+- Traverse the list:
 
-next = nullptr (Next node)
+    - Store next = curr->next.
 
-2. Traverse the list:
+    - Reverse the link: curr->next = prev.
 
-Store next = curr->next.
+    - Move pointers forward: prev = curr, curr = next.
 
-Reverse the link: curr->next = prev.
-
-Move pointers forward: prev = curr, curr = next.
-
-3. Update the new head to prev (last node of the original list).
+- Update the new head to prev (last node of the original list).
 
 ### Time Complexity
 
@@ -51,19 +52,22 @@ Space: O(1) (In-place reversal)
 
 Algorithm Steps
 
-Base Case: If head is nullptr or head->next is nullptr, return head.
+1. Base Case: If head is nullptr or head->next is nullptr, return head.
 
-Recursively reverse the rest of the list (head->next).
+2. Recursively reverse the rest of the list (head->next).
 
-Fix the links:
+3. Fix the links:
 
-head->next->next = head (Reverse the link).
+    1. head->next->next = head (Reverse the link).
 
-head->next = nullptr (Break the old link).
+    2.  head->next = nullptr (Break the old link).
 
-Return the new head (from the base case).
+4. Return the new head (from the base case).
 
-Time Complexity
+------------------------------------------------------------------------------------------
+
+## Time Complexity
+
 Time: O(n) (Each node processed once)
 
 Space: O(n) (Recursion stack)
