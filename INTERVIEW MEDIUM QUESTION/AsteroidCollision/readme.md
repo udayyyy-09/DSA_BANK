@@ -28,15 +28,15 @@ asteroids[i] != 0
 
 2. Opposite Directions:
 
- - Left-moving asteroid (negative) collides with right-moving asteroid (positive) if the left-moving one is to the right of the right-moving one.
+      - Left-moving asteroid (negative) collides with right-moving asteroid (positive) if the left-moving one is to the right of the right-moving one.
 
- - The smaller asteroid explodes.
+      - The smaller asteroid explodes.
 
- - If same size, both explode.
+      - If same size, both explode.
 
 3. No Collision:
 
- - Right-moving asteroid (positive) on the left of a left-moving asteroid (negative) will never collide (they move away from each other).
+     - Right-moving asteroid (positive) on the left of a left-moving asteroid (negative) will never collide (they move away from each other).
 
 ---------------------------------------------
 
