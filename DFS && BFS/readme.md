@@ -2,29 +2,29 @@
 
 ##### ***BFS***, which stands for Breadth-First Search, is a ***graph traversal algorithm*** that explores a graph level by level, starting from a root node. It visits all the node's immediate neighbors before moving on to the next level of neighbors. This approach is particularly useful for finding the shortest path in ***unweighted graphs.***
 
-#### ***DFS****, Depth-First Search (DFS) is an algorithm for traversing or searching a graph or tree data structure. It explores a branch as far as possible before ***backtracking*** to explore other branches. It's a fundamental algorithm used in various graph-related problems. 
+##### ***DFS****, Depth-First Search (DFS) is an algorithm for traversing or searching a graph or tree data structure. It explores a branch as far as possible before ***backtracking*** to explore other branches. It's a fundamental algorithm used in various graph-related problems. 
 
 ## BREADTH FIRST SEARCH
 
 ##### Theory
 
-    - **Approach**: Explores all nodes at the current depth before moving to the next level.
+- **Approach**: Explores all nodes at the current depth before moving to the next level.
 
-    - **Data Structure**: Uses a queue (FIFO).
+- **Data Structure**: Uses a queue (FIFO).
 
-    - **Time Complexity**:
+- **Time Complexity**:
 
-        -  Adjacency List: O(V + E)
+    -  Adjacency List: O(V + E)
 
-        - Adjacency Matrix: O(V²)
+    - Adjacency Matrix: O(V²)
 
-    - **Space Complexity**: O(V) (queue storage).
+- **Space Complexity**: O(V) (queue storage).
 
-    - **Best For**:
+- **Best For**:
 
-        - Shortest path in unweighted graphs.
+    - Shortest path in unweighted graphs.
 
-        - Level-order traversal (e.g., tree level-wise printing).
+    - Level-order traversal (e.g., tree level-wise printing).
 
 --------------------------------------------------------------
 
@@ -78,29 +78,29 @@ Code C++
 
 ##### Theory
 
-    - **Approach**: Explores as far as possible along a branch before backtracking.
+- **Approach**: Explores as far as possible along a branch before backtracking.
 
-    - **Data Structure**: Uses a stack (recursion or explicit stack).
+- **Data Structure**: Uses a stack (recursion or explicit stack).
 
-    - **Time Complexity**:
+- **Time Complexity**:
 
-        - Adjacency List: O(V + E)
+    - Adjacency List: O(V + E)
 
-        - Adjacency Matrix: O(V²)
+    - Adjacency Matrix: O(V²)
 
-    - **Space Complexity**:
+- **Space Complexity**:
 
-        - **Recursive**: O(V) (call stack).
+    - **Recursive**: O(V) (call stack).
 
-        - **Iterative**: O(V) (explicit stack).
+    - **Iterative**: O(V) (explicit stack).
 
-    - **Best For**:
+- **Best For**:
 
-        - Pathfinding (mazes).
+    - Pathfinding (mazes).
 
-        - Cycle detection.
+    - Cycle detection.
 
-        - Topological sorting.
+    - Topological sorting.
 
 -----------------------------------------------------------
 
@@ -159,16 +159,16 @@ Code (C++)
 
 #### When to Use?
 
-    - **Use BFS** when:
+- **Use BFS** when:
 
-        - Finding the shortest path.
+    - Finding the shortest path.
 
-        - Traversing level by level (e.g., social network friends).
+    - Traversing level by level (e.g., social network friends).
 
-    - **Use DFS** when:
+- **Use DFS** when:
 
-        - Exploring all possible paths (e.g., maze solving).
+    - Exploring all possible paths (e.g., maze solving).
 
-        - Detecting cycles or connected components.
+    - Detecting cycles or connected components.
 
 ----------------------------------------------------------------------------
