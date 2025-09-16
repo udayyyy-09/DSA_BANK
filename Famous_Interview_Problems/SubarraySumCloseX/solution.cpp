@@ -1,6 +1,6 @@
 /*Given an array of integers nums and an integer target X, find a contiguous subarray whose sum is closest to X (but not necessarily exceeding it).
 Return the subarray as a vector of integers.
-*/
+
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -56,3 +56,5 @@ int main(){
     cout << endl;
     return 0;
 }
+
+*/
