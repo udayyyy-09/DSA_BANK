@@ -3,7 +3,7 @@
       My Solution:
             https://leetcode.com/problems/multiply-strings/solutions/6659073/beats-100-users-with-simple-solution-by-b1xu5
 
-*/
+
 #include<bits/stdc++.h>
 using namespace std;
 string multiply(string num1, string num2) {
@@ -40,3 +40,5 @@ int main(){
     cin>>num2;
     cout<< multiply(num1, num2)<<endl;
 }
+
+*/
