@@ -1,0 +1,47 @@
+/*
+
+
+class Solution {
+public:
+    int minOperations(vector<int>& nums) {
+        int n = nums.size(), idx = INT_MIN , opr = INT_MAX, count = 0;
+        //first I find If there is 1 or not 
+        for(int i=0;i<n;i++){
+            if(nums[i] == 1){
+                idx = i;
+                count++;
+            } 
+        }
+        //if 1 found
+        if(idx != INT_MIN){
+            // when found 1 just return n-1 opr. No , don't return direct think of [1,1,1] where opr = 0
+            if( count == n) return 0;
+            opr = n-count;
+        }else{
+            //if 1 not found then find the shortest subarray with gcd() == 1
+            // Check for any pair with gcd() ==1 
+            int len = INT_MAX;
+            for(int i=0;i<n-1;i++){
+                int j = i+1, val;
+                int ans = nums[i];
+                while(j<n){
+                    val = gcd(ans,nums[j]);
+                    if(val == 1){
+                        len = min(len, j-i+1);
+                        if(len == j-i+1) opr = min(opr, j-i + n-1);
+                        break;
+                    }
+                    ans = val;
+                    j++;
+                }
+            }
+        }
+
+        return (opr == INT_MAX) ? -1:opr;
+        
+    }
+    
+};
+
+
+*/
