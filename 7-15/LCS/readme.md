@@ -25,3 +25,8 @@ You must write an algorithm that runs in O(n) time.
 
         Input: nums = [1,0,1,2]
         Output: 3
+
+
+#### Unordered set stores elements in any order and insertion, deletion, and access operations are O(1) time due to the use of hashing.
+
+#### Set stores elements in a sorted order and operations such as insertions, deletions, and accessing operations are takes logarithmic O(log n) in time complexity.

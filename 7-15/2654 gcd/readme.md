@@ -40,4 +40,4 @@ The gcd of two integers is the greatest common divisor of the two integers.
 - if 1 not found return -1
 
 - edge cases: 
-    - if [1,1,1] then opr == 0
+    - if [1,1,1] then opr ==
