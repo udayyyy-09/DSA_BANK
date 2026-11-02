@@ -1,5 +1,4 @@
-## K-th Largest Element with Removal
-
+                                                    
 ### Problem Description
 
 Given an array of N integers and Q queries, for each query find the K-th largest element and then remove it from the array for subsequent queries.
